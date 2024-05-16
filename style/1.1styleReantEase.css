@@ -1,0 +1,26 @@
+:root{
+    --favorito: #E3275F;
+    --alerta: #FF621F;
+
+    /* Colores */
+    --azul-50: #D0DFE2;
+    --azul-100: #A1C0C5;
+    --azul-200: #73A0A7;
+    --azul-400: #15616D; /*Color principal*/
+    --azul-500: #11525E;
+    --azul-600: #0D4350;
+    --azul-700: #083341;
+
+    /* Escala de grises */
+    --gris-0: #FFFFFF;
+    --gris-50: #DDE1E1;
+    --gris-100: #BBC3C4;
+    --gris-200: #98A5A6;
+    --gris-300: #768789;
+    --gris-400: #54696B;
+    --gris-500: #43585D;
+    --gris-600: #32474F;
+    --gris-700: #223740;
+    --gris-800: #112632;
+    --gris-900: #001524;
+}
